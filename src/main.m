@@ -101,5 +101,5 @@ NSString* State2String(SCNetworkConnectionStatus state) {
 }
 
 void PrintUsage() {
-  fprintf(stderr, "vpnauto $VPN_NAME");
+  fprintf(stderr, "vpnauto $VPN_NAME\n");
 }
